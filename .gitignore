@@ -1,3 +1,8 @@
+### My own gitignore rules
+# Ignore directory for pickled data, that contains possibly outdated intermediary results
+pickles/*
+
+### Githib Python predefined stuff
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
